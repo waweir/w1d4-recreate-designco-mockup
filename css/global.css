@@ -26,10 +26,11 @@ header {
     height: 100px;
     height: 7.13vw;
     flex: 1;
-    padding: 0 150px;
-    padding: 0 10.6vw;
+    padding: 0 210px;
+    padding: 0 14.85vw;
 }
 ul {
+    padding: 0;
     display: flex;
     width: 100%;
     margin: 0;
